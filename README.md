@@ -2,44 +2,48 @@ Aero Quest
 
 **Overview**
 
-Math Quest is an engaging Windows Forms application designed to help users, particularly young students, improve fundamental arithmetic skills through interactive gameplay. Developed by Vincent P. Landicho, Neil Patrick M. Pajadan, and Gabrielle B. Moneva, the game presents math problems in a fun pirate-themed environment, making learning enjoyable and captivating.
+Aero Quest is a robust C# Windows Forms Application designed to manage flight information efficiently. Tailored for airlines, it streamlines tasks like flight scheduling, passenger tracking, and managing aircraft, ensuring smooth operations for both staff and travelers. 
 
 **Features**
 
-* Vintage graphics and animations
+* Flight Management: Easily schedule, edit, and track flights, including departure and arrival times.
 
-* Customizable difficulty levels (Easy, Normal, Hard)
+* Passenger Management: Track passenger details, seat assignments, and booking statuses.
 
-* Four arithmetic operations (Addition, Subtraction, Multiplication, Division)
+* Aircraft Information: Maintain detailed records of aircraft, including type, capacity, and current usage.
 
-* Unique arithmetical logic system developed by the team
+* Search Functionality: Quickly search for flights by destination, date, or aircraft.
 
-* Leaderboard feature to track scores
+* Booking System: Efficiently manage bookings and cancellations for passengers.
 
-* Sound control (Mute/Unmute)
+* Cost Calculation: Automated fare calculation based on destination and class of travel.
 
-* Timer functionality to add urgency to gameplay
+* User-friendly Interface: Intuitive navigation with simple controls for airline staff.
 
-* User-friendly interface with intuitive navigation
+* Error Handling: Built-in checks and error messages to ensure accurate data entry and prevent conflicts in scheduling.
 
 **Usage**
 
-1. Choose your difficulty level (Easy, Normal, Hard) and arithmetic operator (Addition, Subtraction, Multiplication, Division).
-2. Navigate your pirate ship using the arrow keys to collect treasure chests containing correct answers to math problems.
-3. Solve math problems within the time limit to earn points and avoid losing health.
-4. Compete with friends and family to achieve the highest score and climb the leaderboard.
+1. Schedule a Flight: Enter flight details (departure, arrival, aircraft, etc.) to add a new flight. The system automatically updates availability and displays upcoming flights.
+2. Search for Flights: Use the search bar to filter flights based on destinations, dates, or aircraft.
+3. View Aircraft Info: Check the status and availability of aircraft to ensure they are ready for upcoming flights.
+4. enerate Reports: View detailed reports on flights, bookings, and passenger data to monitor performance and customer satisfaction.
 
 **Contributing**
 
-We welcome contributions to Math Quest! If you have any ideas for new features, bug fixes, or improvements, please feel free to submit a pull request or open an issue on the GitHub repository.
+We welcome contributions to Aero Quest! If you have any ideas for new features, bug fixes, or improvements, please feel free to submit a pull request or open an issue on the GitHub repository.
 
 **Credits**
 
-Vincent P. Landicho
+Briones, Gio Andrew T.
 
-Neil Patrick M. Pajadan
+Masakayan, Freesia Mae H.
 
-Gabrielle B. Moneva
+Segovia, Nathaniel C.
+
+Rosal, Jannea May T.
+
+Pajadan, Neil Patrick M.
 
 
 ## License
